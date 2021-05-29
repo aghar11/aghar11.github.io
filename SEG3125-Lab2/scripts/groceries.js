@@ -4,22 +4,64 @@
 
 var products = [
 	{
-		name: "brocoli",
-		vegetarian: true,
-		glutenFree: true,
+		name: "Broccoli",
+		lactoseFree: true,
+		nutFree: true,
 		price: 1.99
 	},
 	{
-		name: "bread",
-		vegetarian: true,
-		glutenFree: false,
+		name: "Bread",
+		lactoseFree: true,
+		nutFree: true,
 		price: 2.35
 	},
 	{
-		name: "salmon",
-		vegetarian: false,
-		glutenFree: true,
-		price: 10.00
+		name: "Salmon",
+		lactoseFree: true,
+		nutFree: true,
+		price: 19.99
+	},
+	{
+		name: "Bagels",
+		lactoseFree: true,
+		nutFree: true,
+		price: 4.99
+	},
+	{
+		name: "Cereal",
+		lactoseFree: true,
+		nutFree: false,
+		price: 6.99
+	},
+	{
+		name: "Milk",
+		lactoseFree: false,
+		nutFree: true,
+		price: 4.99
+	},
+	{
+		name: "Oat Milk",
+		lactoseFree: true,
+		nutFree: true,
+		price: 7.99
+	},
+	{
+		name: "Peanut Butter",
+		lactoseFree: true,
+		nutFree: false,
+		price: 3.99
+	},
+	{
+		name: "Strawberries",
+		lactoseFree: true,
+		nutFree: true,
+		price: 4.99
+	},
+	{
+		name: "Rice",
+		lactoseFree: true,
+		nutFree: true,
+		price: 19.99
 	}
 ];
 	
