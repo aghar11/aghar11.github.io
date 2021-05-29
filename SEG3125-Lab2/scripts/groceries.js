@@ -7,60 +7,70 @@ var products = [
 		name: "Broccoli",
 		lactoseFree: true,
 		nutFree: true,
+		organic: true,
 		price: 1.99
 	},
 	{
 		name: "Bread",
 		lactoseFree: true,
 		nutFree: true,
+		organic: false,
 		price: 2.35
 	},
 	{
 		name: "Salmon",
 		lactoseFree: true,
 		nutFree: true,
+		organic: true,
 		price: 19.99
 	},
 	{
 		name: "Bagels",
 		lactoseFree: true,
 		nutFree: true,
+		organic: false,
 		price: 4.99
 	},
 	{
 		name: "Cereal",
 		lactoseFree: true,
 		nutFree: false,
+		organic: false,
 		price: 6.99
 	},
 	{
 		name: "Milk",
 		lactoseFree: false,
 		nutFree: true,
+		organic: true,
 		price: 4.99
 	},
 	{
 		name: "Oat Milk",
 		lactoseFree: true,
 		nutFree: true,
+		organic: true,
 		price: 7.99
 	},
 	{
 		name: "Peanut Butter",
 		lactoseFree: true,
 		nutFree: false,
+		organic: false,
 		price: 3.99
 	},
 	{
 		name: "Strawberries",
 		lactoseFree: true,
 		nutFree: true,
+		organic: true,
 		price: 4.99
 	},
 	{
 		name: "Rice",
 		lactoseFree: true,
 		nutFree: true,
+		organic: true,
 		price: 19.99
 	}
 ];
