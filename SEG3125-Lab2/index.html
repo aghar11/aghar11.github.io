@@ -42,7 +42,7 @@
     <div id="Client" class="tabcontent">
       <h3>Client Information</h3>
       <p>Tell us a bit about you.</p>
-      Any dietary restrictions?   
+      <div class="text">Any dietary restrictions?</div>        
       <select id="dietSelect" name="dietSelect" onchange="populateListProductChoices(this.id, 'displayProduct')">
         <option value=""></option>
         <option value="LactoseFree">Lactose Intolerance</option>
@@ -54,7 +54,7 @@
     <div id="Products" class="tabcontent">
       <h3>Your targeted products</h3>
       <p>We preselected products based on your restrictions.</p>
-      Choose items to buy:
+      <div class="text">Choose items to buy:</div>
       <div id="displayProduct"></div>
       <button id="addCart" type="button" class="block" onclick="selectedItems()">
         Add selected items to cart.

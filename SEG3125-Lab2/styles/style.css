@@ -38,7 +38,7 @@
   border-top: none;
 }
 
-/* Sytle the footer */
+/* Style the footer */
 .footer {
   position: fixed;
   left: 0px;
@@ -50,4 +50,10 @@
   text-align: left;
   font-family: Garamond, Georgia, serif;
   font-size: 15px;
+}
+
+/* Style the text */
+.text {
+  font-family: Garamond, Georgia, serif;
+  font-size: 18px;
 }
