@@ -36,6 +36,9 @@
   border-top: none;
 }
 
-.title {
-  padding: 6px 12px;
+.pageTitle {
+  padding: 4px 4px;
+  font-family: Garamond, Georgia, serif;
+  text-align: center;
+
 }
