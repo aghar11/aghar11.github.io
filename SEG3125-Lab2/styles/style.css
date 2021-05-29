@@ -37,7 +37,7 @@
 }
 
 /* Style the title */
-h1 {
+.h1 {
   padding-top: 6px;
   padding-bottom: 4px;
   font-family: Garamond, Georgia, serif;
