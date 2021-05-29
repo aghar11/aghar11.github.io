@@ -38,6 +38,27 @@
   border-top: none;
 }
 
+/* Style the title */
+.h1 {
+  padding-top: 6px;
+  padding-bottom: 4px;
+  font-family: Garamond, Georgia, serif;
+  text-align: center;
+  font-size: 38px;
+}
+
+/* Style the subtitle */
+.h3 {
+  font-family: Garamond, Georgia, serif;
+  font-size: 25px;
+}
+
+/* Style the paragraph */
+.p {
+  font-family: Garamond, Georgia, serif;
+  font-size: 20px;
+}
+
 /* Style the footer */
 .footer {
   position: fixed;
@@ -55,5 +76,5 @@
 /* Style the text */
 .text {
   font-family: Garamond, Georgia, serif;
-  font-size: 30px;
+  font-size: 20px;
 }
