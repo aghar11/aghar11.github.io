@@ -35,3 +35,7 @@
   border: 1px solid #ccc;
   border-top: none;
 }
+
+.title {
+  padding: 6px 12px;
+}
