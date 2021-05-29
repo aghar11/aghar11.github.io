@@ -5,11 +5,31 @@
     <link href="styles/style.css" rel="stylesheet" type="text/css">
 
     <title>Online Shopping at the Minty Mart</title>
+
+    <style>
+      h1 {
+        padding-top: 6px;
+        padding-bottom: 4px;
+        font-family: Garamond, Georgia, serif;
+        text-align: center;
+        font-size: 38px;
+      }
+
+      h3 {
+        font-family: Garamond, Georgia, serif;
+        font-size: 25px;
+      }
+
+      p {
+        font-family: Garamond, Georgia, serif;
+        font-size: 20px;
+      }
+    </style>
   </head>
 
   <body style="background-color: #b3ffd9">
 
-    <dic class="h1">Welcome to the Minty Mart!</div>
+    <h1>Welcome to the Minty Mart!</h1>
 
     <!-- Tab links, each one with an onclick event associated with it -->
     <div class="tab">
@@ -20,8 +40,8 @@
 
     <!-- Tab content -->
     <div id="Client" class="tabcontent">
-      <div class="h3">Client Information</div>
-      <div class="p">Tell us a bit about you.</div>
+      <h3>Client Information</h3>
+      <p>Tell us a bit about you.</p>
       <div class="text">Any dietary restrictions?</div>        
       <select id="dietSelect" name="dietSelect" onchange="populateListProductChoices(this.id, 'displayProduct')">
         <option value=""></option>
@@ -33,8 +53,8 @@
     </div>
 
     <div id="Products" class="tabcontent">
-      <div class="h3">Your targeted products</div>
-      <div class="p">We preselected products based on your restrictions.</div>
+      <h3>Your targeted products</h3>
+      <p>We preselected products based on your restrictions.</p>
       <div class="text">Choose items to buy:</div>
       <div id="displayProduct"></div>
       <button id="addCart" type="button" class="block" onclick="selectedItems()">
@@ -43,8 +63,8 @@
     </div>
 
     <div id="Cart" class="tabcontent">
-      <div class="h3">Cart</div>
-      <div class="p">Here is your cart.</div>
+      <h3>Cart</h3>
+      <p>Here is your cart.</p>
       <div id="displayCart"></div>
     </div>
 
