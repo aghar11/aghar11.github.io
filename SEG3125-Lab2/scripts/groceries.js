@@ -84,16 +84,16 @@ function restrictListProducts(prods, restriction) {
 	let product_names = [];
 	for (let i=0; i<prods.length; i+=1) {
 		if ((restriction == "LactoseFree") && (prods[i].lactoseFree == true)) {
-			product_names.push(prods[i].name.concat("     ", prods[i].price));
+			product_names.push(prods[i].name);
 		}
 		else if ((restriction == "NutFree") && (prods[i].nutFree == true)) {
-			product_names.push(prods[i].name.concat("     ", prods[i].price));
+			product_names.push(prods[i].name);
 		}
 		else if ((restriction == "Organic") && (prods[i].organic == true)) {
-			product_names.push(prods[i].name.concat("     ", prods[i].price));
+			product_names.push(prods[i].name);
 		}
 		else if (restriction == "None"){
-			product_names.push(prods[i].name.concat("     ", prods[i].price));
+			product_names.push(prods[i].name);
 		}
 	}
 	return product_names;
