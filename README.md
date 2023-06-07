@@ -3,7 +3,7 @@ This is my personal github pages repository
 
 (Summer 2023) SEG 3125 Projects
 =================
-[Project 1 - Pitstop Performance Service Site](https://aghar11.github.io/SEG3125-Lab1)
+[Project 1 - Pitstop Performance Service Site](https://www.google.ca/?client=safari)
 
 (Summer 2022) SEG 3125 Lab Work
 =================
