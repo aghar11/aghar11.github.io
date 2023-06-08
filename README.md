@@ -1,6 +1,10 @@
 # Welcome to Akarsh's Website!
 This is my personal github pages repository
 
+(Summer 2023) SEG 3125 Projects
+=================
+[Project 1 - Service Site](https://aghar11.github.io/seg3125-project1)
+
 (Summer 2022) SEG 3125 Lab Work
 =================
 [Lab 1 - Questionnaire](https://aghar11.github.io/SEG3125-Lab1)
