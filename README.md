@@ -3,7 +3,7 @@ This is my personal github pages repository
 
 (Summer 2023) SEG 3125 Projects
 =================
-[Project 1 - Service Site](https://aghar11.github.io/seg3125-project1)
+[Project 1 - Service Site](https://master--famous-bombolone-4c32e9.netlify.app)
 
 (Summer 2022) SEG 3125 Lab Work
 =================
