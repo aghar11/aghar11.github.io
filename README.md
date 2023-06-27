@@ -3,7 +3,8 @@ This is my personal github pages repository
 
 (Summer 2023) SEG 3125 Projects
 =================
-[Project 1 - Service Site](https://master--famous-bombolone-4c32e9.netlify.app)
+[Project 1 - Pitstop Performance](https://master--famous-bombolone-4c32e9.netlify.app)
+[Project 2 - Eagle's Nest Golf Club](https://bejewelled-cranachan-a048ab.netlify.app)
 
 (Summer 2022) SEG 3125 Lab Work
 =================
