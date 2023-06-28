@@ -5,7 +5,7 @@ This is my personal github pages repository
 =================
 [Project 1 - Pitstop Performance](https://master--famous-bombolone-4c32e9.netlify.app)
 
-[Project 2 - Eagle's Nest Golf Club](https://main--dulcet-pavlova-f0ade6.netlify.app/learn/instructors)
+[Project 2 - Eagle's Nest Golf Club](https://main--dulcet-pavlova-f0ade6.netlify.app/)
 
 (Summer 2022) SEG 3125 Lab Work
 =================
